@@ -1,2 +1,2 @@
 # Mastermind-Kotlin
-Masterming classic game with Kotlin
+Mastermind classic game with Kotlin
